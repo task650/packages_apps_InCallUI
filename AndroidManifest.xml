@@ -25,6 +25,9 @@
         since less powerful devices may not be able to initiate the process
         in time when the process is killed and an incoming call is received.
     -->
+    <uses-permission android:name="android.permission.READ_PHONE_BLACKLIST" />
+    <uses-permission android:name="android.permission.CHANGE_PHONE_BLACKLIST" />
+
     <application
         android:persistent="true"
         android:hasCode="false"

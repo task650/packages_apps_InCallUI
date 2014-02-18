@@ -567,4 +567,12 @@
     <string name="dialpad_star_letters"></string>
     <!--  Do not translate. -->
     <string name="dialpad_pound_letters"></string>
+
+    <!-- Text for the onscreen "Blacklist" button -->
+    <string name="onscreenBlacklistText">Blacklist</string>
+
+    <!-- Blacklist confirmation dialog -->
+    <string name="blacklist_dialog_title">Add to blacklist</string>
+    <string name="blacklist_dialog_message">Future calls from <xliff:g id="number">%s</xliff:g> will be blocked</string>
+
 </resources>

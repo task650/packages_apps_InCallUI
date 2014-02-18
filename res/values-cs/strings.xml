@@ -177,4 +177,7 @@
     <string name="dialpad_7_number" msgid="277455349526398354">"7"</string>
     <string name="dialpad_8_number" msgid="4764964930466503513">"8"</string>
     <string name="dialpad_9_number" msgid="4023642800448238950">"9"</string>
+    <string name="onscreenBlacklistText">Černá listina</string>
+    <string name="blacklist_dialog_title">Přidat na černou listinu</string>
+    <string name="blacklist_dialog_message">Příští volání z čísla <xliff:g id="number">%s</xliff:g> bude blokováno</string>
 </resources>
